@@ -1,0 +1,11 @@
+No.	Column Name	Value	Meaning
+1	CHROM	Chr1	Chromosome ID
+2	POS	5634	Position of reference sequence
+3	ID	.	Identifiers
+4	REF	G	Reference base(s)
+5	ALT	A	Alternate base(s) of SNP
+6	QUAL	140.84	Quality value for the variant
+7	FILTER	PASS	Filter status
+8	INFO	[ANNOTATIONS]	Annotation information
+9	FORMAT	GT:AD:DP:GQ:PL	Genotype format
+10	R01	1/1:0,6:6:18:169,18,0	Sample genotype

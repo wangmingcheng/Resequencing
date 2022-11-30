@@ -1,0 +1,9 @@
+列数	列名	意义
+1	BMK ID	百迈客对项目样品的统一编号
+2	SNPnumber	检测得到的SNP数量
+3	Transition	转换类型的SNP数量
+4	Transversion	颠换类型的SNP数量
+5	Ti/Tv	转换与颠换类型SNP比率
+6	Heterozygosity	杂合类型的SNP数量
+7	Homozygosity	纯合类型的SNP数量
+8	Het-ratio	杂合类型的SNP比率

@@ -1,0 +1,9 @@
+核苷酸代码	意义	核苷酸代码	意义
+A	Adenosine	M	A C (aMino group)
+C	Cytosine	S	G C (Strong interaction)
+G	Guanine	W	A T (Weak interaction)
+T	Thymidine	B	G T C (not A) (B comes after A)
+U	Uracil	D	G A T (not C) (D comes after C)
+R	G A (puRine)	H	A C T (not G) (H comes after G)
+Y	T C (pYrimidine)	V	G C A (not T, not U) (V comes after U)
+K	G T (Ketone)	N	A G C T (aNy)

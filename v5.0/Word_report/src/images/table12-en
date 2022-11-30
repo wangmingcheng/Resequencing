@@ -1,0 +1,9 @@
+No.	Column Name	Meaning
+1	BMK ID	BMK sample ID
+2	SNPnumber	The number of SNPs detected
+3	Transition	The number of transition SNPs
+4	Transversion	The number of transversion SNPs
+5	Ti/Tv	The ratio of transition SNPs to transversion SNPs
+6	Heterozygosity	The number of heterozygous SNPs
+7	Homozygosity	The number of homozygous SNPs
+8	Het-ratio	The ratio of heterozygous SNPs

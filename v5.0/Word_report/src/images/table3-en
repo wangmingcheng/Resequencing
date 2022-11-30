@@ -1,0 +1,12 @@
+Identifiers	Detailed Information
+HWI-7001455	Unique instrument name
+224	Run ID
+HA58FADXX	Flowcell ID
+2	Flowcell lane
+2216	Tile number within the flowcell lane
+5226	'x'-coordinate of the cluster within the tile
+55443	'y'-coordinate of the cluster within the tile
+1	Member of a pair, 1 or 2 (paired-end or mate-pair reads only)
+N	Y if the read fails filter (read is bad), N otherwise
+0	0 when none of the control bits are on, otherwise it is an even number
+GAAACC	Index sequence

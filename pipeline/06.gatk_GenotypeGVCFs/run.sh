@@ -1,0 +1,2 @@
+sleep 3h
+/data03/home/wangmingcheng/biosoft/gatk-4.2.0.0/gatk GenotypeGVCFs -R /data03/home/wangmingcheng/project/cherry_genome_hic/red_reference_reseq/01.genome_index/Prunus_avium_Tieton.chr.fasta -V /data03/home/wangmingcheng/project/cherry_genome_hic/red_reference_reseq/05.gatk_CombineGVCFs/combined_cohort.gvcf.gz -O /data03/home/wangmingcheng/project/cherry_genome_hic/red_reference_reseq/06.gatk_GenotypeGVCFs/combined_vcf.gz

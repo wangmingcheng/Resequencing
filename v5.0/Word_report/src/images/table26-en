@@ -1,0 +1,14 @@
+No.	Column Name	Meaning
+1	Chr1	The chromosome where SV breakpoint 1 is located
+2	Pos1	The position of SV breakpoint 1
+3	Orientation1	The aligned number and direction of reads at breakpoint 1 (+* is positive,-* is negative)
+4	Chr2	The chromosome where SV breakpoint 2 is located
+5	Pos2	The position of SV breakpoint 2
+6	Orientation2	The aligned number and direction of reads at breakpoint 2
+7	Type	The type of SV
+8	Size	The length of SV
+9	Score	Incredible value
+10	num_Reads	The number of read pairs supported this SV
+11	num_Reads_lib	The number of samples and reads supported
+12	Allele_frequency	Allele frequency
+13	Version	Software version

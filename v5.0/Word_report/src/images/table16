@@ -1,0 +1,12 @@
+类型	意义
+Effect	变异所在的区域或类型
+Effect impact	变异影响大小（High, Moderate, Low, Modifier）
+Functional Class	功能分类（NONE, SILENT, MISSENSE, NONSENSE）
+Codon_Change/Distance	编码改变（old_codon/new_codon）或者变异位点到转录本的距离（在基因上下游区域）
+Amino_Acid_Change	氨基酸编码改变（原氨基酸类型、位置、改变后氨基酸类型）
+Gene_Name	基因名
+Transcript_BioType	转录本功能
+Gene_Coding	编码蛋白(CODING | NON_CODING)
+Transcript_ID	转录本ID
+Exon/Intron Rank	外显子或内含子位次
+Warnings/Errors	警告或错误

@@ -1,0 +1,9 @@
+No.	Column Name	Meaning
+1	CHROM	Chromosome ID
+2	POS	Position of reference sequence
+3	REF	Reference base(s)
+4	ALT	Alternate base(s) of Indel
+5	QUAL	Quality value
+6	*_base	Genotype
+7	*_alt_depth	The first number is the sequencing depthof ref, and the second number is the sequencing depth of alt
+8	*_reads_depth	The sequencing depth of the site

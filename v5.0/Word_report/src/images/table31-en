@@ -1,0 +1,5 @@
+Phred score	Incorrect base discrimination	Correct base discrimination rate	Q-sorce
+10	1/10	90%	Q10
+20	1/100	99%	Q20
+30	1/1000	99.9%	Q30
+40	1/10000	99.99%	Q40

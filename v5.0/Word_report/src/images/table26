@@ -1,0 +1,14 @@
+列数	标题	意义说明
+1	Chr1	SV断点1所在染色体
+2	Pos1	SV断点1所在位置
+3	Orientation1	断点1处reads比对数量和比对方向（+*条正向,-*条负向）
+4	Chr2	SV断点2所在染色体
+5	Pos2	SV断点2所在位置
+6	Orientation2	断点2处reads比对数量和方向
+7	Type	SV类型
+8	Size	SV长度
+9	Score	置信值
+10	num_Reads	支持该SV的read pair数目
+11	num_Reads_lib	所在的样品和reads支持数
+12	Allele_frequency	等位基因频率
+13	Version	软件版本

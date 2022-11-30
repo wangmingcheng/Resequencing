@@ -1,0 +1,12 @@
+Type	Meaning
+Effect	The region or type of variations
+Effect impact	The impact of variations (High, Moderate, Low, Modifier)
+Functional Class	Function classification (NONE, SILENT, MISSENSE, NONSENSE)
+Codon_Change/Distance	Codon change (old_codon/new_codon) or the distance from the variation site to the transcript (in the upstream and downstream regions of the gene)
+Amino_Acid_Change	Amino acid codon change (original amino acid type, position, new amino acid type)
+Gene_Name	Gene name
+Transcript_BioType	Transcripts function
+Gene_Coding	Gene coding (CODING | NON_CODING)
+Transcript_ID	Transcript ID
+Exon/Intron Rank	Exon or intron position rank
+Warnings/Errors	Warnings or errors

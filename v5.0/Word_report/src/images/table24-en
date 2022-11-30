@@ -1,0 +1,21 @@
+Function or Type	Meaning
+INTERGENIC	Intergenic region
+INTRAGENIC	Intragenic(no transcript information)
+INTRON	Intron
+UPSTREAM	Upstream region of gene (within 5K)
+DOWNSTREAM	Downstream region of gene (within 5K)
+UTR_5_PRIME	5’UTR region
+UTR_3_PRIME	3’UTR region
+SPLICE_SITE_ACCEPTOR	Splicing acceptor variation (within the first 2bp of exon)
+SPLICE_SITE_DONOR	Splicing donor variation (within the last 2bp of exon)
+SPLICE_SITE_REGION	Splicing region variation (1-3 bases variation in exon or 3-8 bases variation in intron)
+START_LOST	Start codon lost
+FRAME_SHIFT	Frame shift variation (insert or delete multiple of non-3)
+CODON_DELETION	Codon deletion (integer multiple of 3)
+EXON_DELETED	Exon deleted
+CODON_INSERTION	Codon insertionn (integer multiple of 3)
+CODON_CHANGE_PLUS_CODON_DELETION	Codon change + codon deletion
+CODON_CHANGE_PLUS_CODON_INSERTION	Codon change + codon insertion
+STOP_GAINED	Stop codon gain
+STOP_LOST	Stop codon lost
+Other	Due to the incomplete genetic information in the GFF file, accurate information cannot be obtained
