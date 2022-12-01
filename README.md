@@ -27,7 +27,8 @@ delly：https://github.com/dellytools/delly
 ### PacBio SV
 ### both
 ## 单倍型推断
-Shapeit: https://mathgen.stats.ox.ac.uk/genetics_software/shapeit/shapeit.html<br>
+Shapeit2: https://mathgen.stats.ox.ac.uk/genetics_software/shapeit/shapeit.html<br>
+Shapeit4: https://github.com/odelaneau/shapeit4<br>
 
 ## 基因型填充
 Impute2: https://mathgen.stats.ox.ac.uk/impute/impute_v2.html<br>
