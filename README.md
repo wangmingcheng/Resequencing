@@ -20,6 +20,12 @@ ClinGen is a National Institutes of Health (NIH)-funded resource dedicated to bu
 ## bam文件检查
 VerifyBamID2：https://github.com/Griffan/VerifyBamID 检查BAM文件中的读数是否与特定样品的先前基因型匹配
 
+## 结构变异
+LUMPY：https://github.com/arq5x/lumpy-sv
+delly：https://github.com/dellytools/delly
+### nanopore SV
+### PacBio SV
+### both
 ## 单倍型推断
 Shapeit: https://mathgen.stats.ox.ac.uk/genetics_software/shapeit/shapeit.html<br>
 
