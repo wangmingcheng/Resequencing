@@ -17,6 +17,15 @@ dbVar is NCBI's database of human genomic Structural Variation — large variant
 ClinGen is a National Institutes of Health (NIH)-funded resource dedicated to building a central resource that defines the clinical relevance of genes and variants for use in precision medicine and research.
 
 
+## bam文件检查
+VerifyBamID2：https://github.com/Griffan/VerifyBamID 检查BAM文件中的读数是否与特定样品的先前基因型匹配
+
+## 单倍型推断
+Shapeit: https://mathgen.stats.ox.ac.uk/genetics_software/shapeit/shapeit.html<br>
+
+## 基因型填充
+Impute2: https://mathgen.stats.ox.ac.uk/impute/impute_v2.html<br>
+Beagle: https://faculty.washington.edu/browning/beagle/beagle.html
 ## CNV分析
 ### 靶向测序（PCR或者芯片捕获）
 ### 全外显子
