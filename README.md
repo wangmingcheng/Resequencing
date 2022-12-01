@@ -29,10 +29,13 @@ delly：https://github.com/dellytools/delly
 ## 单倍型推断
 Shapeit2: https://mathgen.stats.ox.ac.uk/genetics_software/shapeit/shapeit.html<br>
 Shapeit4: https://github.com/odelaneau/shapeit4<br>
+hapcut2: https://github.com/vibansal/hapcut2<br>
+nPhase: https://github.com/OmarOakheart/nPhase<br>
 
 ## 基因型填充
 Impute2: https://mathgen.stats.ox.ac.uk/impute/impute_v2.html<br>
-Beagle: https://faculty.washington.edu/browning/beagle/beagle.html
+Beagle: https://faculty.washington.edu/browning/beagle/beagle.html<br>
+eagleimp: https://github.com/ikmb/eagleimp<br>
 ## CNV分析
 ### 靶向测序（PCR或者芯片捕获）
 ### 全外显子
