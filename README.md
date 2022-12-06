@@ -15,6 +15,8 @@ ClinVar 数据库整合了基因组变异及其与人类健康关系的信息
 dbVar is NCBI's database of human genomic Structural Variation — large variants >50 bp including insertions, deletions, duplications, inversions, mobile elements, translocations, and complex variants.
 ### ClinGen：https://clinicalgenome.org/
 ClinGen is a National Institutes of Health (NIH)-funded resource dedicated to building a central resource that defines the clinical relevance of genes and variants for use in precision medicine and research.
+### GnomAD: http://www.gnomad-sg.org/
+The Genome Aggregation Database (gnomAD) is a resource developed by an international coalition of investigators, with the goal of aggregating and harmonizing both exome and genome sequencing data from a wide variety of large-scale sequencing projects, and making summary data available for the wider scientific community.
 
 
 ## bam文件检查
