@@ -43,6 +43,10 @@ eagleimp: https://github.com/ikmb/eagleimp<br>
 ### 全外显子
 ### 全基因组
 
+### 分析软件
+#### FREEC：可用于全基因组和全外显子，make不好安装
+https://github.com/BoevaLab/FREEC
+
 
 ## 问题
 ### 修改染色体名字，关于为什么只需要修改BAM文件的header？
