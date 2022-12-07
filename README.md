@@ -49,6 +49,7 @@ https://github.com/BoevaLab/FREEC
 
 ## snp注释
 SnpEff: https://pcingola.github.io/SnpEff<br>
+VEP: https://github.com/Ensembl/ensembl-vep<br>
 
 ## 问题
 ### 修改染色体名字，关于为什么只需要修改BAM文件的header？
