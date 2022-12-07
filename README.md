@@ -23,8 +23,8 @@ The Genome Aggregation Database (gnomAD) is a resource developed by an internati
 VerifyBamID2：https://github.com/Griffan/VerifyBamID 检查BAM文件中的读数是否与特定样品的先前基因型匹配
 
 ## 结构变异
-LUMPY：https://github.com/arq5x/lumpy-sv
-delly：https://github.com/dellytools/delly
+LUMPY：https://github.com/arq5x/lumpy-sv<br>
+delly：https://github.com/dellytools/delly<br>
 ### nanopore SV
 ### PacBio SV
 ### both
@@ -47,6 +47,8 @@ eagleimp: https://github.com/ikmb/eagleimp<br>
 #### FREEC：可用于全基因组和全外显子，make不好安装
 https://github.com/BoevaLab/FREEC
 
+## snp注释
+SnpEff: https://pcingola.github.io/SnpEff<br>
 
 ## 问题
 ### 修改染色体名字，关于为什么只需要修改BAM文件的header？
