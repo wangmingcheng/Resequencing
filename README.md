@@ -53,6 +53,8 @@ https://github.com/BoevaLab/FREEC
 ## snp注释
 SnpEff: https://pcingola.github.io/SnpEff<br>
 VEP: https://github.com/Ensembl/ensembl-vep<br>
+### vcfanno
+https://github.com/brentp/vcfanno
 ### ANNOVAR
 https://annovar.openbioinformatics.org/en/latest/<br>
 人、小鼠、蠕虫、果蝇、酵母等基因组结构变异功能注释，主要可以做如下3类注释<br>
