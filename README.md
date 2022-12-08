@@ -55,12 +55,12 @@ SnpEff: https://pcingola.github.io/SnpEff<br>
 VEP: https://github.com/Ensembl/ensembl-vep<br>
 ### ANNOVAR
 人、小鼠、蠕虫、果蝇、酵母等基因组结构变异功能注释，主要可以做如下3类注释
-1 基于基因的注释
-确认SNPs和CNVs造成的编码蛋白氨基酸的变化和影响
-2 基于区域的注释
-确定基因组特定区域的变异，如转录因子结合位点、片段重复区域、GWAS hits区域、组蛋白修饰区域等
-3 Filter-based annotation，SNPs和indel
-确认变异是否在特定的数据库中被记录描述，如dbDSNP，1000 Genome Project, gnomAD等，计算有害突变等得分
+1 基于基因的注释<br>
+确认SNPs和CNVs造成的编码蛋白氨基酸的变化和影响<br>
+2 基于区域的注释<br>
+确定基因组特定区域的变异，如转录因子结合位点、片段重复区域、GWAS hits区域、组蛋白修饰区域等<br>
+3 Filter-based annotation，SNPs和indel<br>
+确认变异是否在特定的数据库中被记录描述，如dbDSNP，1000 Genome Project, gnomAD等，计算有害突变等得分<br>
 #### 查看可用数据库
 ```
 #https://www.biostars.org/p/196985/
