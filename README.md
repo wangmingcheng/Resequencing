@@ -118,3 +118,5 @@ akt：https://github.com/Illumina/akt<br>
 https://www.biostars.org/p/386231/
 ### deepvariant variant call 结果中PASS和RefCall的解释？
 https://github.com/google/deepvariant/issues/278
+### bcttools 给VCF文件增加TAG
+https://github.com/samtools/bcftools/issues/1731
