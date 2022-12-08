@@ -54,6 +54,7 @@ https://github.com/BoevaLab/FREEC
 SnpEff: https://pcingola.github.io/SnpEff<br>
 VEP: https://github.com/Ensembl/ensembl-vep<br>
 ### ANNOVAR
+https://annovar.openbioinformatics.org/en/latest/
 人、小鼠、蠕虫、果蝇、酵母等基因组结构变异功能注释，主要可以做如下3类注释<br>
 1 基于基因的注释<br>
 确认SNPs和CNVs造成的编码蛋白氨基酸的变化和影响<br>
