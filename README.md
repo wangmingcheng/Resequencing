@@ -54,7 +54,7 @@ https://github.com/BoevaLab/FREEC
 SnpEff: https://pcingola.github.io/SnpEff<br>
 VEP: https://github.com/Ensembl/ensembl-vep<br>
 ### ANNOVAR
-人、小鼠、蠕虫、果蝇、酵母等基因组结构变异功能注释，主要可以做如下3类注释
+人、小鼠、蠕虫、果蝇、酵母等基因组结构变异功能注释，主要可以做如下3类注释<br>
 1 基于基因的注释<br>
 确认SNPs和CNVs造成的编码蛋白氨基酸的变化和影响<br>
 2 基于区域的注释<br>
@@ -74,6 +74,31 @@ perl annotate_variation.pl -downdb clinvar_20220320 -webfrom annovar humandb/ -b
 #### VCF格式转换为annovar输入格式
 ```
 perl convert2annovar.pl -format vcf4 case_22BY12800_filter.vcf > case_22BY12800_filter.vcf_variant.avinput
+```
+
+#### 联合注释
+```
+# annotation
+perl table_annovar.pl example/ex1.avinput humandb/ \
+-buildver hg19 \
+-out myanno \
+-remove \
+-protocol refGene,cytoBand,exac03,avsnp147,dbnsfp30a \
+-operation g,r,f,f,f \
+-nastring . \
+-csvout
+
+# -buildver hg19 表示使用的参考基因组版本为hg19
+# -out myanno 指定输出文件前缀为myanno
+# -remove 表示删除中间文件
+# -protocol 后跟注释来源数据库名称，每个protocal名称或注释类型之间只有一个逗号，并且没有空白
+# -operation 后跟指定的注释类型，和protocol指定的数据库顺序是一致的，g代表gene-based、r代表region-based、f代表filter-based
+# -nastring . 表示用.替代缺省值
+# -csvout 表示最后输出.csv文件
+
+# 可用-vcfinput选项直接对vcf文件进行注释
+perl table_annovar.pl example/ex2.vcf humandb/ -buildver hg19 -out myanno -remove -protocol refGene,cytoBand,genomicSuperDups,esp6500si_all,1000g2012apr_all,snp138,ljb23_all -operation g,r,r,f,f,f,f -nastring . -vcfinput
+
 ```
 
 ## 问题
