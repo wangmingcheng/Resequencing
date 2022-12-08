@@ -59,6 +59,10 @@ VEP: https://github.com/Ensembl/ensembl-vep<br>
 #https://www.biostars.org/p/196985/
 perl annotate_variation.pl -downdb -webfrom annovar avdblist humandb/ -buildver hg38
 ```
+#### 下载数据
+```
+perl annotate_variation.pl -downdb clinvar_20220320 -webfrom annovar humandb/ -buildver hg19
+```
 
 ## 问题
 ### 修改染色体名字，关于为什么只需要修改BAM文件的header？
