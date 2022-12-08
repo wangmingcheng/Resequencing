@@ -71,6 +71,11 @@ perl annotate_variation.pl -downdb -webfrom annovar avdblist humandb/ -buildver 
 perl annotate_variation.pl -downdb clinvar_20220320 -webfrom annovar humandb/ -buildver hg19
 ```
 
+#### VCF格式转换为annovar输入格式
+```
+perl convert2annovar.pl -format vcf4 case_22BY12800_filter.vcf > case_22BY12800_filter.vcf_variant.avinput
+```
+
 ## 问题
 ### 修改染色体名字，关于为什么只需要修改BAM文件的header？
 https://www.biostars.org/p/386231/
