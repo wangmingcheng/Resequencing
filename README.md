@@ -107,6 +107,10 @@ perl table_annovar.pl example/ex2.vcf humandb/ -buildver hg19 -out myanno -remov
 
 ```
 
+## 亲缘关系分析
+akt：https://github.com/Illumina/akt<br>
+
+
 ## 问题
 ### 修改染色体名字，关于为什么只需要修改BAM文件的header？
 https://www.biostars.org/p/386231/
