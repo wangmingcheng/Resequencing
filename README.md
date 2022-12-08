@@ -76,6 +76,11 @@ perl annotate_variation.pl -downdb clinvar_20220320 -webfrom annovar humandb/ -b
 perl convert2annovar.pl -format vcf4 case_22BY12800_filter.vcf > case_22BY12800_filter.vcf_variant.avinput
 ```
 
+#### 单个数据库注释
+```
+perl annotate_variation.pl -filter -dbtype clinvar_20220320 --thread 30 -buildver hg19 case_22BY12800_filter.vcf_variant.avinput humandb/
+```
+
 #### 联合注释
 ```
 # annotation
