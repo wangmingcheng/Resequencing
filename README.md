@@ -111,6 +111,7 @@ perl table_annovar.pl example/ex2.vcf humandb/ -buildver hg19 -out myanno -remov
 
 ## 亲缘关系分析
 akt：https://github.com/Illumina/akt<br>
+king：https://www.kingrelatedness.com<br>
 
 
 ## 问题
