@@ -49,6 +49,7 @@ eagleimp: https://github.com/ikmb/eagleimp<br>
 ### 分析软件
 #### FREEC：可用于全基因组和全外显子，make不好安装
 https://github.com/BoevaLab/FREEC
+下载release版本，解压安装即可
 
 ## snp注释
 SnpEff: https://pcingola.github.io/SnpEff<br>
