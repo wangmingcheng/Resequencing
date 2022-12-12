@@ -3,7 +3,10 @@
 https://hpc.nih.gov/training/gatk_tutorial/preproc.html#preproc-tools<br>
 
 ## variant calling pipeline
-VarDict: https://github.com/AstraZeneca-NGS/VarDict<br>
+### VarDict:
+https://github.com/AstraZeneca-NGS/VarDict<br>
+### bcftools:
+http://samtools.github.io/bcftools/howtos/cnv-calling.html
 
 ## 人类基因组结构变异数据库（GATK4质控）
 ### 1000 Genomes：https://www.internationalgenome.org/home<br>
