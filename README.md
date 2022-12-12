@@ -55,6 +55,8 @@ https://github.com/BoevaLab/FREEC
 下载release版本，解压安装即可
 #### CNVpytor: 适用全基因组
 https://github.com/abyzovlab/CNVpytor
+#### cn.mops: 适合全外显子和panel
+https://bioconductor.org/packages/release/bioc/vignettes/cn.mops/inst/doc/cn.mops.pdf
 
 ## snp注释
 SnpEff: https://pcingola.github.io/SnpEff<br>
