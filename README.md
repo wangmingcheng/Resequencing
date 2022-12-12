@@ -57,6 +57,8 @@ https://github.com/BoevaLab/FREEC
 https://github.com/abyzovlab/CNVpytor
 #### cn.mops: 适合全外显子和panel
 https://bioconductor.org/packages/release/bioc/vignettes/cn.mops/inst/doc/cn.mops.pdf
+#### xhmm: 适合全外显子
+https://zzz.bwh.harvard.edu/xhmm/index.shtml
 
 ## snp注释
 SnpEff: https://pcingola.github.io/SnpEff<br>
