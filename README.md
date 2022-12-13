@@ -43,6 +43,7 @@ nPhase: https://github.com/OmarOakheart/nPhase<br>
 ## 基因型填充
 Impute2: https://mathgen.stats.ox.ac.uk/impute/impute_v2.html<br>
 Beagle: https://faculty.washington.edu/browning/beagle/beagle.html<br>
+Minimac4: https://github.com/statgen/Minimac4<br>
 eagleimp: https://github.com/ikmb/eagleimp<br>
 ## CNV分析
 ### 靶向测序（PCR或者芯片捕获）
