@@ -133,6 +133,15 @@ akt：https://github.com/Illumina/akt<br>
 king：https://www.kingrelatedness.com<br>
 
 
+## 合并vcf
+### 相当于cat，例如把分染色体call的vcf文件合并到一块
+```
+java -jar ~/software/snpEff/SnpSift.jar split -j  *bed.vcf > merged.vcf
+java -jar ~/software/snpEff/SnpSift.jar sort *bed.vcf > merged.vcf
+#不同在于注释行的差异，其他均一致
+```
+https://github.com/reneshbedre/bioinfokit<br>
+
 ## 问题
 ### 修改染色体名字，关于为什么只需要修改BAM文件的header？
 https://www.biostars.org/p/386231/
