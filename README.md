@@ -46,6 +46,13 @@ Beagle: https://faculty.washington.edu/browning/beagle/beagle.html<br>
 Minimac4: https://github.com/statgen/Minimac4<br>
 eagleimp: https://github.com/ikmb/eagleimp<br>
 eagle2: https://alkesgroup.broadinstitute.org/Eagle/<br>
+
+## 连锁不平衡（Linkage disequilibrium）
+### LDSC
+https://github.com/bulik/ldsc<br>
+
+
+
 ## CNV分析
 ### 靶向测序（PCR或者芯片捕获）
 ### 全外显子
