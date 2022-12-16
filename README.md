@@ -132,6 +132,8 @@ perl table_annovar.pl example/ex2.vcf humandb/ -buildver hg19 -out myanno -remov
 akt：https://github.com/Illumina/akt<br>
 king：https://www.kingrelatedness.com<br>
 
+## PRS 多基因风险分数
+https://github.com/getian107/PRScs<br>
 
 ## 合并vcf
 ### 相当于cat，例如把分染色体call的vcf文件合并到一块
@@ -147,5 +149,5 @@ https://github.com/reneshbedre/bioinfokit<br>
 https://www.biostars.org/p/386231/
 ### deepvariant variant call 结果中PASS和RefCall的解释？
 https://github.com/google/deepvariant/issues/278
-### bcttools 给VCF文件增加Tags
+### bcftools 给VCF文件增加Tags
 https://github.com/samtools/bcftools/issues/1731
