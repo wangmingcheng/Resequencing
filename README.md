@@ -34,6 +34,10 @@ delly：https://github.com/dellytools/delly<br>
 ### nanopore SV
 ### PacBio SV
 ### both
+
+## 基因组重排
+gridss：https://github.com/PapenfussLab/gridss
+
 ## 单倍型推断
 Shapeit2: https://mathgen.stats.ox.ac.uk/genetics_software/shapeit/shapeit.html<br>
 Shapeit4: https://github.com/odelaneau/shapeit4<br>
