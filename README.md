@@ -36,6 +36,7 @@ delly：https://github.com/dellytools/delly<br>
 ### both
 
 truvari: https://github.com/acenglish/truvari
+survivor: https://github.com/fritzsedlazeck/SURVIVOR
 
 ## 基因组重排
 gridss：https://github.com/PapenfussLab/gridss
