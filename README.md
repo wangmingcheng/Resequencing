@@ -35,6 +35,8 @@ delly：https://github.com/dellytools/delly<br>
 ### PacBio SV
 ### both
 
+truvari: https://github.com/acenglish/truvari
+
 ## 基因组重排
 gridss：https://github.com/PapenfussLab/gridss
 
