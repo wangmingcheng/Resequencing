@@ -77,6 +77,8 @@ https://bioconductor.org/packages/release/bioc/vignettes/cn.mops/inst/doc/cn.mop
 https://zzz.bwh.harvard.edu/xhmm/index.shtml
 #### ONCOCNV
 https://github.com/BoevaLab/ONCOCNV
+#### CODEX2
+https://github.com/yuchaojiang/CODEX2
 
 ## snp注释
 SnpEff: https://pcingola.github.io/SnpEff<br>
