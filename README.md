@@ -161,3 +161,5 @@ https://www.biostars.org/p/386231/
 https://github.com/google/deepvariant/issues/278
 ### bcftools 给VCF文件增加Tags
 https://github.com/samtools/bcftools/issues/1731
+### b allele frequency
+www.biostars.org/p/254848/
