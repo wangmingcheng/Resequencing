@@ -75,6 +75,8 @@ https://github.com/abyzovlab/CNVpytor
 https://bioconductor.org/packages/release/bioc/vignettes/cn.mops/inst/doc/cn.mops.pdf
 #### xhmm: 适合全外显子
 https://zzz.bwh.harvard.edu/xhmm/index.shtml
+#### ONCOCNV
+https://github.com/BoevaLab/ONCOCNV
 
 ## snp注释
 SnpEff: https://pcingola.github.io/SnpEff<br>
