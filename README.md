@@ -151,6 +151,9 @@ java -jar ~/software/snpEff/SnpSift.jar sort *bed.vcf > merged.vcf
 ```
 https://github.com/reneshbedre/bioinfokit<br>
 
+##  loss of heterozygosity(杂合性缺失)
+https://www.bioconductor.org/packages/release/bioc/vignettes/TitanCNA/inst/doc/TitanCNA.pdf
+
 ## 问题
 ### 修改染色体名字，关于为什么只需要修改BAM文件的header？
 https://www.biostars.org/p/386231/
