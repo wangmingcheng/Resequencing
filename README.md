@@ -1,6 +1,8 @@
 # Resequencing
 ## GATK4教程
 https://hpc.nih.gov/training/gatk_tutorial/preproc.html#preproc-tools<br>
+## 群体遗传学家
+https://speciationgenomics.github.io/
 
 ## variant calling pipeline
 ### VarDict:
