@@ -81,6 +81,8 @@ https://zzz.bwh.harvard.edu/xhmm/index.shtml
 https://github.com/BoevaLab/ONCOCNV
 #### CODEX2
 https://github.com/yuchaojiang/CODEX2
+#### pureCN 需要100X数据量
+https://github.com/lima1/PureCN
 
 ## snp注释
 SnpEff: https://pcingola.github.io/SnpEff<br>
