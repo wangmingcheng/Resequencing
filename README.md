@@ -83,6 +83,8 @@ https://github.com/BoevaLab/ONCOCNV
 https://github.com/yuchaojiang/CODEX2
 #### pureCN 需要100X数据量
 https://github.com/lima1/PureCN
+#### scarHRD
+https://github.com/sztup/scarHRD
 
 ## snp注释
 SnpEff: https://pcingola.github.io/SnpEff<br>
