@@ -154,6 +154,10 @@ king：https://www.kingrelatedness.com<br>
 ## PRS 多基因风险分数
 https://github.com/getian107/PRScs<br>
 
+## GWAS
+https://gwaslab.com/<br>
+https://pbreheny.github.io/adv-gwas-tutorial/index.html<br>
+
 ## 合并vcf
 ### 相当于cat，例如把分染色体call的vcf文件合并到一块
 ```
