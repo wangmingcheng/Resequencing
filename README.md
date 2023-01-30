@@ -181,3 +181,4 @@ https://github.com/samtools/bcftools/issues/1731
 www.biostars.org/p/254848/
 ### VCF文件中的星号（*）/<*>的意思和区别
 https://gatk.broadinstitute.org/hc/en-us/articles/360035531912?id=11029
+http://samtools.github.io/hts-specs/VCFv4.3.pdf 页数8
