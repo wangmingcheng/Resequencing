@@ -179,3 +179,5 @@ https://github.com/google/deepvariant/issues/278
 https://github.com/samtools/bcftools/issues/1731
 ### b allele frequency
 www.biostars.org/p/254848/
+### VCF文件中的星号（*）/<*>的意思和区别
+https://gatk.broadinstitute.org/hc/en-us/articles/360035531912?id=11029
