@@ -146,6 +146,10 @@ perl table_annovar.pl example/ex1.avinput humandb/ \
 perl table_annovar.pl example/ex2.vcf humandb/ -buildver hg19 -out myanno -remove -protocol refGene,cytoBand,genomicSuperDups,esp6500si_all,1000g2012apr_all,snp138,ljb23_all -operation g,r,r,f,f,f,f -nastring . -vcfinput
 
 ```
+## runs of homozygosity 和杂合性缺失
+https://cran.r-project.org/web/packages/detectRUNS/vignettes/detectRUNS.vignette.html<br>
+
+
 
 ## 亲缘关系分析
 akt：https://github.com/Illumina/akt<br>
