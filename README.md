@@ -1,8 +1,16 @@
 # Resequencing
 ## GATK4教程
 https://hpc.nih.gov/training/gatk_tutorial/preproc.html#preproc-tools<br>
-## 群体遗传学家
+## 群体遗传学
 https://speciationgenomics.github.io/
+## 统计遗传学
+https://genome.sph.umich.edu/wiki/Abecasis_Lab<br>
+<<An Introduction to Statistical Genetic Data Analysis>><br>
+<<Handbook of statistical genomics>><br>
+http://faculty.washington.edu/tathornt/SISG2019.html<br>
+
+### lab
+https://yanglab.westlake.edu.cn/ <br>
 
 ## variant calling pipeline
 ### VarDict:
