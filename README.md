@@ -5,8 +5,8 @@ https://hpc.nih.gov/training/gatk_tutorial/preproc.html#preproc-tools<br>
 https://speciationgenomics.github.io/
 ## 统计遗传学
 https://genome.sph.umich.edu/wiki/Abecasis_Lab<br>
-<<An Introduction to Statistical Genetic Data Analysis>><br>
-<<Handbook of statistical genomics>><br>
+<An Introduction to Statistical Genetic Data Analysis><br>
+<Handbook of statistical genomics><br>
 http://faculty.washington.edu/tathornt/SISG2019.html<br>
 
 ### lab
