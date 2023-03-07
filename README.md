@@ -172,7 +172,7 @@ https://pbreheny.github.io/adv-gwas-tutorial/index.html<br>
 ### 线性混合模型
 EMMAX<br>
 https://genome.sph.umich.edu/wiki/EMMAX<br>
-GEMMA
+GEMMA<br>
 https://github.com/genetics-statistics/GEMMA#installation<br>
 ## 合并vcf
 ### 相当于cat，例如把分染色体call的vcf文件合并到一块
