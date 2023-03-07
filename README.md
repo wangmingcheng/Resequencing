@@ -182,6 +182,9 @@ Fast-LMM<br>
 https://github.com/fastlmm/FaST-LMM<br>
 GENESIS<br>
 https://github.com/UW-GAC/GENESIS<br>
+regenie<br>
+https://github.com/rgcgithub/regenie<br>
+
 ## 合并vcf
 ### 相当于cat，例如把分染色体call的vcf文件合并到一块
 ```
