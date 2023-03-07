@@ -174,6 +174,14 @@ EMMAX<br>
 https://genome.sph.umich.edu/wiki/EMMAX<br>
 GEMMA<br>
 https://github.com/genetics-statistics/GEMMA#installation<br>
+GMMAT<br>
+https://github.com/hanchenphd/GMMAT<br>
+Bolt-LMM<br>
+https://alkesgroup.broadinstitute.org/BOLT-LMM/BOLT-LMM_manual.html<br>
+Fast-LMM<br>
+https://github.com/fastlmm/FaST-LMM<br>
+GENESIS<br>
+https://github.com/UW-GAC/GENESIS<br>
 ## 合并vcf
 ### 相当于cat，例如把分染色体call的vcf文件合并到一块
 ```
