@@ -169,6 +169,7 @@ https://github.com/getian107/PRScs<br>
 ## GWAS
 https://gwaslab.com/<br>
 https://pbreheny.github.io/adv-gwas-tutorial/index.html<br>
+https://github.com/Cloufield/GWASTutorial<br>
 ### 线性混合模型
 EMMAX<br>
 https://genome.sph.umich.edu/wiki/EMMAX<br>
