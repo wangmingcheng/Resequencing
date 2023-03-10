@@ -67,6 +67,9 @@ eagle2: https://alkesgroup.broadinstitute.org/Eagle/<br>
 ## 连锁不平衡（Linkage disequilibrium）
 ### LDSC
 https://github.com/bulik/ldsc<br>
+### 连锁分析
+https://www.jurgott.org/linkage/runPM.html<br>
+
 
 
 
