@@ -71,8 +71,6 @@ https://github.com/bulik/ldsc<br>
 https://www.jurgott.org/linkage/runPM.html<br>
 
 
-
-
 ## CNV分析
 ### 靶向测序（PCR或者芯片捕获）
 ### 全外显子
@@ -161,7 +159,6 @@ perl table_annovar.pl example/ex2.vcf humandb/ -buildver hg19 -out myanno -remov
 https://cran.r-project.org/web/packages/detectRUNS/vignettes/detectRUNS.vignette.html<br>
 
 
-
 ## 亲缘关系分析
 akt：https://github.com/Illumina/akt<br>
 king：https://www.kingrelatedness.com<br>
@@ -190,6 +187,8 @@ regenie<br>
 https://github.com/rgcgithub/regenie<br>
 SAIGE<br>
 https://github.com/saigegit/SAIGE<br>
+mtag<br>
+https://github.com/JonJala/mtag
 
 ## 合并vcf
 ### 相当于cat，例如把分染色体call的vcf文件合并到一块
