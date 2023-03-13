@@ -215,5 +215,7 @@ www.biostars.org/p/254848/
 https://gatk.broadinstitute.org/hc/en-us/articles/360035531912?id=11029<br>
 http://samtools.github.io/hts-specs/VCFv4.3.pdf 页数8<br>
 ### SNP的LD剪枝与聚集 LD pruning & clumping
-https://www.biostars.org/p/343818/
-https://zhuanlan.zhihu.com/p/373217037
+https://www.biostars.org/p/343818/<br>
+https://zhuanlan.zhihu.com/p/373217037<br>
+### LD reference panel
+http://topld.genetics.unc.edu/<br>
