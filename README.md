@@ -188,7 +188,9 @@ https://github.com/rgcgithub/regenie<br>
 SAIGE<br>
 https://github.com/saigegit/SAIGE<br>
 mtag<br>
-https://github.com/JonJala/mtag
+https://github.com/JonJala/mtag<br>
+susieR<br>
+https://github.com/stephenslab/susieR<br>
 
 ## 合并vcf
 ### 相当于cat，例如把分染色体call的vcf文件合并到一块
