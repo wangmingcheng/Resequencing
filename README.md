@@ -54,6 +54,7 @@ gridss：https://github.com/PapenfussLab/gridss
 ## 单倍型推断
 Shapeit2: https://mathgen.stats.ox.ac.uk/genetics_software/shapeit/shapeit.html<br>
 Shapeit4: https://github.com/odelaneau/shapeit4<br>
+Shapeit5: https://github.com/odelaneau/shapeit5<br>
 hapcut2: https://github.com/vibansal/hapcut2<br>
 nPhase: https://github.com/OmarOakheart/nPhase<br>
 
