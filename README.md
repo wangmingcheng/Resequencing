@@ -41,6 +41,7 @@ VerifyBamID2：https://github.com/Griffan/VerifyBamID 检查BAM文件中的读�
 ## 结构变异
 LUMPY：https://github.com/arq5x/lumpy-sv<br>
 delly：https://github.com/dellytools/delly<br>
+clinSV: https://github.com/KCCG/ClinSV<br>
 ### nanopore SV
 ### PacBio SV
 ### both
