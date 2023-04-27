@@ -105,6 +105,7 @@ https://github.com/mskcc/facets
 ## snp注释
 SnpEff: https://pcingola.github.io/SnpEff<br>
 VEP: https://github.com/Ensembl/ensembl-vep<br>
+gvanno: https://github.com/sigven/gvanno.git<br>
 ### vcfanno
 https://github.com/brentp/vcfanno
 ### ANNOVAR
