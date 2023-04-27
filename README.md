@@ -43,6 +43,7 @@ LUMPY：https://github.com/arq5x/lumpy-sv<br>
 delly：https://github.com/dellytools/delly<br>
 clinSV: https://github.com/KCCG/ClinSV<br>
 Paragraph: https://github.com/Illumina/paragraph<br>
+GRIDSS - the Genomic Rearrangement IDentification Software Suite: https://github.com/PapenfussLab/gridss<br>
 ### nanopore SV
 ### PacBio SV
 ### both
