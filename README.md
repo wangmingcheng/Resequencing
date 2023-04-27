@@ -106,6 +106,7 @@ https://github.com/mskcc/facets
 SnpEff: https://pcingola.github.io/SnpEff<br>
 VEP: https://github.com/Ensembl/ensembl-vep<br>
 gvanno: https://github.com/sigven/gvanno.git<br>
+Nirvana: https://github.com/Illumina/Nirvana<br>
 ### vcfanno
 https://github.com/brentp/vcfanno
 ### ANNOVAR
