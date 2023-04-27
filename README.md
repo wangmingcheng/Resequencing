@@ -44,6 +44,7 @@ delly：https://github.com/dellytools/delly<br>
 clinSV: https://github.com/KCCG/ClinSV<br>
 Paragraph: https://github.com/Illumina/paragraph<br>
 GRIDSS - the Genomic Rearrangement IDentification Software Suite: https://github.com/PapenfussLab/gridss<br>
+manta: https://github.com/Illumina/manta<br>
 ### nanopore SV
 ### PacBio SV
 ### both
