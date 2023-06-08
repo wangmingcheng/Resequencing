@@ -169,6 +169,11 @@ perl table_annovar.pl example/ex2.vcf humandb/ -buildver hg19 -out myanno -remov
 ## runs of homozygosity 和杂合性缺失
 https://cran.r-project.org/web/packages/detectRUNS/vignettes/detectRUNS.vignette.html<br>
 
+## 新生突变 de novo mutations
+https://gatk.broadinstitute.org/hc/en-us/articles/360035531432-Genotype-Refinement-workflow-for-germline-short-variants<br>
+https://denovo-db.gs.washington.edu/denovo-db/<br>
+https://samtools.github.io/bcftools/howtos/plugin.trio-dnm2.html<br>
+https://varscan.sourceforge.net/trio-calling-de-novo-mutations.html<br>
 
 ## 亲缘关系分析
 akt：https://github.com/Illumina/akt<br>
@@ -232,3 +237,6 @@ https://www.biostars.org/p/343818/<br>
 https://zhuanlan.zhihu.com/p/373217037<br>
 ### LD reference panel
 http://topld.genetics.unc.edu/<br>
+### 人类基因组版本坐标转换
+https://github.com/milkschen/leviosam2<br>
+
