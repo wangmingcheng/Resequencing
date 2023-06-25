@@ -34,6 +34,9 @@ ClinGen is a National Institutes of Health (NIH)-funded resource dedicated to bu
 ### GnomAD: http://www.gnomad-sg.org/
 The Genome Aggregation Database (gnomAD) is a resource developed by an international coalition of investigators, with the goal of aggregating and harmonizing both exome and genome sequencing data from a wide variety of large-scale sequencing projects, and making summary data available for the wider scientific community.
 
+### 基因和疾病关联
+https://phenolyzer.wglab.org/
+
 
 ## bam文件检查
 VerifyBamID2：https://github.com/Griffan/VerifyBamID 检查BAM文件中的读数是否与特定样品的先前基因型匹配
