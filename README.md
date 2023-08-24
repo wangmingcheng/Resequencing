@@ -108,6 +108,8 @@ https://github.com/lima1/PureCN
 https://github.com/sztup/scarHRD
 #### facet
 https://github.com/mskcc/facets
+#### ERDS
+https://github.com/igm-team/ERDS
 
 ## snp注释
 SnpEff: https://pcingola.github.io/SnpEff<br>
