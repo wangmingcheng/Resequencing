@@ -43,11 +43,11 @@ VerifyBamID2：https://github.com/Griffan/VerifyBamID 检查BAM文件中的读�
 
 ## 结构变异
 LUMPY：https://github.com/arq5x/lumpy-sv<br>
-delly：https://github.com/dellytools/delly<br>
-clinSV: https://github.com/KCCG/ClinSV<br>
+DELLY：https://github.com/dellytools/delly<br>
+ClinSV: https://github.com/KCCG/ClinSV<br>
 Paragraph: https://github.com/Illumina/paragraph<br>
 GRIDSS - the Genomic Rearrangement IDentification Software Suite: https://github.com/PapenfussLab/gridss<br>
-manta: https://github.com/Illumina/manta<br>
+Manta: https://github.com/Illumina/manta<br>
 
 ## SV 注释
 https://github.com/lgmgeo/AnnotSV
