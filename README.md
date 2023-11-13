@@ -246,3 +246,5 @@ http://topld.genetics.unc.edu/<br>
 https://github.com/milkschen/leviosam2<br>
 ### 将来的深度学习方法，能否绕过比对到bam这一步，根据kmer之类的特征，比deepvariant更近一步，直接得出SNV（snp和SV）
 
+### 采用rust重构gatk的核心算法，加速callsnp的时间，也是有意义的 （sentieon不开源）
+
