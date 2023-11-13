@@ -244,4 +244,5 @@ https://zhuanlan.zhihu.com/p/373217037<br>
 http://topld.genetics.unc.edu/<br>
 ### 人类基因组版本坐标转换
 https://github.com/milkschen/leviosam2<br>
+### 将来的深度学习方法，能否绕过比对到bam这一步，根据kmer之类的特征，比deepvariant更近一步，直接得出SNV（snp和SV）
 
